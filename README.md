@@ -11,7 +11,7 @@ Frida-Sigaction-Seccomp实现对Android APP系统调用的拦截
 
 ## 原文
 * 看雪文章
-
+https://bbs.kanxue.com/thread-280343.htm
   
 * 个人博客
 https://blog.lleavesg.top/article/Android-Seccomp#c40e15ab4db1407f9e9e0a111631150a
